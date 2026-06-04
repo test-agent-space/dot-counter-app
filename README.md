@@ -9,8 +9,8 @@ A cross-platform desktop application for reliably segmenting and counting colore
 - **Cross-Platform**: Native, self-contained builds for Linux, Windows, and macOS.
 
 ## Download
-Pre-built, self-contained artifacts are available on the [GitHub Releases page](https://github.com/Fishmister42/dot-counter-app/releases). 
-*(Note: If the repository is private, ensure you are authenticated with GitHub to download the artifacts.)*
+Pre-built, self-contained artifacts are available on the [GitHub Releases page](https://github.com/test-agent-space/dot-counter-app/releases). A Linux build artifact is already attached to the `v1.0.0` release. Windows and macOS builds will be attached once the GitHub Actions workflow completes.
+*(Note: The repository is public, so anyone with the link can download the built apps.)*
 
 - **macOS**: `dot-counter-macos.zip` (Contains `dot-counter.app`. Right-click -> Open to bypass Gatekeeper if needed).
 - **Windows**: `dot-counter-windows.zip` (Extract and run `dot-counter.exe`).
